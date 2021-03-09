@@ -1,3 +1,4 @@
 Hi this is not the bender app this is a practice for using the terminal and 
 working with git and github. i am going to save this then stage my change then 
-unstage the file so i can add more to it. 
+unstage the file so i can add more to it. 1 change.
+
